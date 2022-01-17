@@ -2,7 +2,7 @@ Unlisted youtube video:
 https://youtu.be/sJj9Yc1zbNI
 
 Conference / Paper submission login URL:
-
+https://easychair.org/account/signin?l=Kf0aLUXYFD5HV9SAHyfRc5#
 
 Paper title:
 A Benchmark Study for Sentiment Analysis of Customer Satisfaction Based on US Airline Service Twitter Data
@@ -14,11 +14,11 @@ Paper submission date (to workshop/conference):
 16 January 2022
 
 Paper submission ID: (received) from conference/workshop
-
+82
 
 
 Conference URL:
-
+https://www.icacds.com/index.php#cops
 
 Group Number:
 19
