@@ -108,6 +108,7 @@ https://deepmind.com/?fbclid=IwAR36Icg9Bspfoix3WaF3w0Gm6VBDTgRH7-MpJoz26qaF7SgjI
 
 
 was active in slack:
+https://bucse712fall2021.slack.com/archives/C02GVQSQSRX/p1642797947002400
 https://bucse712fall2021.slack.com/archives/C02RS8J0QPR/p1642381492004500
 
 
